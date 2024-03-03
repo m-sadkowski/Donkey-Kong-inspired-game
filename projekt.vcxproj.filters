@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{b273caad-c119-4773-af13-116c5804d94d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\back.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\barrel.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\barrel1.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\barrels.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\cs8x8.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\dead.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\jumping.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\king1.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\king2.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\ladder.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\platform.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\playerLeft1.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\playerLeft2.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\playerRight1.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\playerRight2.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\playerUp1.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\playerUp2.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\princess.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\wall.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\win.bmp">
+      <Filter>assets</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
